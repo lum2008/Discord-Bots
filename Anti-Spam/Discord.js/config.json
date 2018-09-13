@@ -1,0 +1,6 @@
+{
+  "token": "",
+  "msgLimitTimeout": 5000,
+  "muteRoleName": "mute",
+  "msgLimit": 3
+}

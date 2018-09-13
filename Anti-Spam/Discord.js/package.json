@@ -1,0 +1,30 @@
+{
+  "name": "anti-spam",
+  "version": "1.0.0",
+  "description": "A small bot that keeps your server / group protected from being spammed.",
+  "main": "main.js",
+  "dependencies": {
+    "discord.js": "^11.4.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "nodemon main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lum2008/Discord-Bots.git"
+  },
+  "keywords": [
+    "anti",
+    "spam",
+    "bot",
+    "discord",
+    "js"
+  ],
+  "author": "lum2008",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/lum2008/Discord-Bots/issues"
+  },
+  "homepage": "https://github.com/lum2008/Discord-Bots#readme"
+}
